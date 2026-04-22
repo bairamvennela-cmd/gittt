@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flipkart Clone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<header class="navbar">
+    <div class="logo">Flipkart</div>
+    <input type="text" placeholder="Search for products..." class="search-box">
+    <button class="login-btn">Login</button>
+    <div class="cart">Cart 🛒</div>
+</header>
+
+<!-- Categories -->
+<section class="categories">
+    <div class="cat">Mobiles</div>
+    <div class="cat">Fashion</div>
+    <div class="cat">Electronics</div>
+    <div class="cat">Home</div>
+    <div class="cat">Appliances</div>
+</section>
+
+<!-- Banner -->
+<section class="banner">
+    <h2>Big Sale is Live!</h2>
+</section>
+
+<!-- Products -->
+<section class="products">
+    <div class="product-card">
+        <img src="https://via.placeholder.com/150">
+        <h4>Product 1</h4>
+        <p>₹999</p>
+    </div>
+
+    <div class="product-card">
+        <img src="https://via.placeholder.com/150">
+        <h4>Product 2</h4>
+        <p>₹1499</p>
+    </div>
+
+    <div class="product-card">
+        <img src="https://via.placeholder.com/150">
+        <h4>Product 3</h4>
+        <p>₹1999</p>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>© 2026 Flipkart Clone</p>
+</footer>
+
+</body>
+</html>
